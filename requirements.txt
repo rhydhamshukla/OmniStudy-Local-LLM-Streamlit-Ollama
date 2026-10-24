@@ -1,0 +1,5 @@
+# Unlox Academy ML August 2026 Batch
+# Minor Project 5: Ollama and Streamlit Dependencies
+streamlit>=1.35.0
+requests>=2.31.0
+pypdf>=4.0.0
